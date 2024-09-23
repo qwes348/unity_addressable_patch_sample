@@ -1,0 +1,780 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fba9291cc85bd0e43853b491deb76b32
+  m_SerializeEntries:
+  - m_GUID: e54da23728d722543a4baac352762c54
+    m_Address: Assets/Character_Image/Monster_BustShot_Boss_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1f049368de191f346b65e0c66ad06684
+    m_Address: Assets/Character_Image/Character_BustShot_MainBUST_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ea5061018b3a0c94f8a87f295ac01c64
+    m_Address: Assets/Character_Image/Character_BustShot_SSRSubBUST_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 05a479efc568c2549afb8645bb1bff2b
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f403069a47f364545803ab48417be67d
+    m_Address: Assets/Character_Image/Character_BustShot_NSubBUST_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 07c4d8cbd659a31409153c9cc199dc26
+    m_Address: Assets/Character_Image/Monster_BustShot_Boss_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7b4c2cc1013f8274ab0caa1ee7f81502
+    m_Address: Assets/Character_Image/Character_BustShot_NSubBUST_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: cc68172ab2963b64aab8399ef86e5848
+    m_Address: Assets/Character_Image/Character_BustShot_NSubBUST_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 22aba59b1374836439ffb30058bf6ffb
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a78110830442dc6449836b68d1749a33
+    m_Address: Assets/Character_Image/Monster_BustShot_Boss_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8f1386837dddb104fb4d63022fac7c1f
+    m_Address: Assets/Character_Image/Monster_Image_Monster_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 58ba3b975f84f984aa620b8100613a08
+    m_Address: Assets/Character_Image/Character_Image_NSubPortrait_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ea0413d9fffde2c43a4690422f0d1979
+    m_Address: Assets/Character_Image/Character_BustShot_RSubBUST_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 9ce470707efa8e7498f30c360fc590dc
+    m_Address: Assets/Character_Image/Character_BustShot_NSubBUST_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 556998730da06f34682b4116dcfdc76e
+    m_Address: Assets/Character_Image/Character_BustShot_SRSubBUST_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a6dfbcba40343bc46ba69e2617911fb7
+    m_Address: Assets/Character_Image/Character_Icon_NSubSurcle_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d83620de8561e9742b9d9d860d2f971a
+    m_Address: Assets/Character_Image/Character_BustShot_RSubBUST_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 55d34c3931597c64299b83e19d4df647
+    m_Address: Assets/Character_Image/Monster_BustShot_Boss_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 9410e84928c6aba468a2485696bed8fb
+    m_Address: Assets/Character_Image/Character_Image_NSubPortrait_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fc75b199a61efbf4a94cb8e60b291d9f
+    m_Address: Assets/Character_Image/Monster_BustShot_Boss_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2bf1e9866825b5e40af0efe9f7b53773
+    m_Address: Assets/Character_Image/Character_BustShot_RSubBUST_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f4be44be14a49ee409ad5531cfc8220e
+    m_Address: Assets/Character_Image/Character_Image_SRSubPortrait_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5eaf6edc2d3c3074480389f760c1cef2
+    m_Address: Assets/Character_Image/Character_BustShot_SRSubBUST_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 16d27c6df1cc38d4a9623665d1f23f21
+    m_Address: Assets/Character_Image/Character_Icon_RSubSurcle_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 802b350a99f26124e9b85505544d2651
+    m_Address: Assets/Character_Image/Character_BustShot_NSubBUST_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8137754aabc0a684697daed32d3ddf76
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2051d34641a168d40b27f3f9420f268d
+    m_Address: Assets/Character_Image/Character_BustShot_RSubBUST_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b6eccc9d1c418c340a9554959a8d094d
+    m_Address: Assets/Character_Image/Monster_Image_Monster_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1ee2bdb362f82b14b9586a5066f71099
+    m_Address: Assets/Character_Image/Character_BustShot_NSubBUST_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6b45c902bf08f0542af6c0683ef1179c
+    m_Address: Assets/Character_Image/Character_Image_RSubPortrait_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 33da8ef2617f5df4ea42bb74624d7e3e
+    m_Address: Assets/Character_Image/Monster_Image_Monster_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 16e3e86a9ed5c8a4abcf3573b9ee62e2
+    m_Address: Assets/Character_Image/Character_BustShot_RSubBUST_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5e12c9c0723731446a55d5a4d9a33c73
+    m_Address: Assets/Character_Image/Character_Image_NSubPortrait_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6fee6302439df3c47a48d0ca6e8ece60
+    m_Address: Assets/Character_Image/Character_Image_SRSubPortrait_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 393fc70e7327e2243b12be2491d63817
+    m_Address: Assets/Character_Image/Character_Icon_NSubSurcle_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6f35fc975495ecd44976153ef6380a72
+    m_Address: Assets/Character_Image/Monster_BustShot_Boss_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: c13bee0809b03fb438df7ed506519df2
+    m_Address: Assets/Character_Image/Monster_Image_Boss_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 0f229c71f40bb564398aba9a115e8576
+    m_Address: Assets/Character_Image/Character_Image_NSubPortrait_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4c2f63eeed16a084a93e6da095d63fe4
+    m_Address: Assets/Character_Image/Character_Image_RSubPortrait_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 640896694e9e7894d9a42179d242d59b
+    m_Address: Assets/Character_Image/Character_BustShot_SSRSubBUST_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: c5d6cfdc4cf5e2442965896450c8e7da
+    m_Address: Assets/Character_Image/Character_Image_NSubPortrait_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 3f2a24a986279404e8827bca79d96f94
+    m_Address: Assets/Character_Image/Monster_Image_Monster_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1c42c87f863436e46afd74a3ecc546c3
+    m_Address: Assets/Character_Image/Monster_Image_Boss_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e16e068a0cf131146a5688677c90b871
+    m_Address: Assets/Character_Image/Monster_Image_Boss_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: af493b16149f2e24987f889f7f3f7111
+    m_Address: Assets/Character_Image/Character_Icon_NSubSurcle_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 04cae80b42f6ebd41968563fba016893
+    m_Address: Assets/Character_Image/Character_Icon_NSubSurcle_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 831ea3e965f404c4f81124c4ede06d9a
+    m_Address: Assets/Character_Image/Character_Icon_RSubSurcle_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7da51354098d21343af2de0979e84734
+    m_Address: Assets/Character_Image/Character_BustShot_NSubBUST_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 29aab630fa19f104495f002a5a3a3382
+    m_Address: Assets/Character_Image/Monster_Image_Monster_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5910232b0d5e83c429bb3cf66447152f
+    m_Address: Assets/Character_Image/Character_Image_NSubPortrait_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 204095e5ba6621a449bed9cc549b48a0
+    m_Address: Assets/Character_Image/Character_Image_SRSubPortrait_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: c56954b30356a514e928d2b286bbfa8b
+    m_Address: Assets/Character_Image/Character_Icon_NSubSurcle_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: bed58f12bb9413d40a2cb6871ae920e5
+    m_Address: Assets/Character_Image/Character_Icon_RSubSurcle_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 87fa7350594a10d4297552e739386978
+    m_Address: Assets/Character_Image/Monster_BustShot_Boss_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5fbe84970dcc6c545af55a2620a6042c
+    m_Address: Assets/Character_Image/Monster_BustShot_Boss_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 61578ffbcbc014442ac86e6a566928bf
+    m_Address: Assets/Character_Image/Character_Icon_NSubSurcle_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 863b53a02e0d4fe4a9f998c98efd956e
+    m_Address: Assets/Character_Image/Character_Icon_RSubSurcle_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: c6057d3cbdb02c6449d5c08a7c2ad0ac
+    m_Address: Assets/Character_Image/Monster_BustShot_Boss_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b718c49dd273b6145920b4101aeec1ba
+    m_Address: Assets/Character_Image/Character_Image_RSubPortrait_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1bfeb4eb76bc4284eb5d1d4ad4e224c6
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 29627a11a12e6b34e8a4bf121eae1d1e
+    m_Address: Assets/Character_Image/Character_Image_RSubPortrait_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 9a9c4a9eccb685241b23339dc9ea515d
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f4c4cc4a9e32f2247bffa99172e31635
+    m_Address: Assets/Character_Image/Monster_Image_Boss_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 34cea3f5e77f95b4384856bf541f1114
+    m_Address: Assets/Character_Image/Character_Icon_RSubSurcle_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7be2d886aa548b44984e822b62cc5b94
+    m_Address: Assets/Character_Image/Monster_Image_Monster_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2be2bd1cc7994844b8c67c6f5721337d
+    m_Address: Assets/Character_Image/Character_Image_NSubPortrait_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 68bb6d5081a8fc948a9baf6a525b760c
+    m_Address: Assets/Character_Image/Character_BustShot_NSubBUST_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a3631105c866bad4b9ee3ede3d184c57
+    m_Address: Assets/Character_Image/Character_Image_SSRSubPortrait_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 97b0151e5f9b8344e9fd7694de501299
+    m_Address: Assets/Character_Image/Character_Image_RSubPortrait_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fa3c99568fbad4d4583db03e0a800877
+    m_Address: Assets/Character_Image/Monster_Image_Boss_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fe074c503b6c8b947a9e4603f0bdcddb
+    m_Address: Assets/Character_Image/Character_Icon_NSubSurcle_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 3eb9ba423653e5f4b9e053083dd1623a
+    m_Address: Assets/Character_Image/Character_Icon_SRSubSurcle_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1a92abfede331fc4785d2e39f8501423
+    m_Address: Assets/Character_Image/Character_Image_SSRSubPortrait_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b4235b557e33a094988b0486df13b4ce
+    m_Address: Assets/Character_Image/Character_Icon_MainSurcle_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7c97e4e64c2e18544bf76c12ca8d5cf6
+    m_Address: Assets/Character_Image/Character_BustShot_RSubBUST_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 731ee85e4ad054a4b9df8e5cad4308e5
+    m_Address: Assets/Character_Image/Character_Icon_SSRSubSurcle_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fb5ddc4b4fa597b42a192a2b949dc5b1
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_013.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 2166deb9a1efe5f45ad03429d5ad9c33
+    m_Address: Assets/Character_Image/Character_Icon_SRSubSurcle_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 452cb1fa4d208f0419f5d7ff0d16a167
+    m_Address: Assets/Character_Image/Character_Image_NSubPortrait_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 997a60830e6e5034ab8e0ee3bf0f58d9
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1c5e6863a5d880946825fbf7ecd2f898
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f112aa23c0eaccf4d98b6363543515d1
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 42cff1840c0e1ce4aad5e1e8e04a4d4f
+    m_Address: Assets/Character_Image/Monster_Image_Boss_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6849243983393804885942add10070b1
+    m_Address: Assets/Character_Image/Character_Icon_NSubSurcle_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e8b746c7be46d6443a5708a16c1489a7
+    m_Address: Assets/Character_Image/Character_BustShot_RSubBUST_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8a44b8588318e0f4d91729cf48e79308
+    m_Address: Assets/Character_Image/Monster_Image_Boss_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b0187a214da88854691b97b935c5f509
+    m_Address: Assets/Character_Image/Character_Icon_NSubSurcle_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f75a7d1b72651d447ac80d83eac3c68a
+    m_Address: Assets/Character_Image/Character_Image_RSubPortrait_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8e4c1ee0b94b8e94494262dfecb96206
+    m_Address: Assets/Character_Image/Monster_Image_Monster_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 35bab507beb124d4b828ee47c7db1125
+    m_Address: Assets/Character_Image/Monster_Image_Boss_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: ad3fb978be97e1d4cb63a8257487c34c
+    m_Address: Assets/Character_Image/Monster_BustShot_Boss_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f66dd6c61261f604096c5605699e1c21
+    m_Address: Assets/Character_Image/Character_Icon_SSRSubSurcle_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 68f3efd972fcc6c48a1b8b2b0c84b132
+    m_Address: Assets/Character_Image/Monster_Image_Boss_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d0df86217a1dc7940b7264b9c1782464
+    m_Address: Assets/Character_Image/Character_BustShot_NSubBUST_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: bff4bfc6e09affb4b85c1290de661430
+    m_Address: Assets/Character_Image/Character_Image_SRSubPortrait_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: de5b9f734075c1742b23609ec94e6051
+    m_Address: Assets/Character_Image/Character_Icon_NSubSurcle_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d6a296c13a6e1a4409d253151218cb97
+    m_Address: Assets/Character_Image/Character_BustShot_NSubBUST_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6283ac6c0a5df4f4ea429d6e7a1b8922
+    m_Address: Assets/Character_Image/Character_Image_MainPortrait_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8de61ca0a5cf05c4eaac3ed27fdf83ab
+    m_Address: Assets/Character_Image/Monster_Image_Monster_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: bb9a4510cf59dce489b77fa0deab97a8
+    m_Address: Assets/Character_Image/Character_Image_RSubPortrait_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a57be1b9b378b8d41b59ff8d928669f6
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d30afe63fcd9c51409afb6c6b7cb54f0
+    m_Address: Assets/Character_Image/Character_Icon_SRSubSurcle_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b1f33eb95000dc041a1cd352abfa94e9
+    m_Address: Assets/Character_Image/Character_BustShot_SRSubBUST_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: dcce2e6458895524fb83543092b173d8
+    m_Address: Assets/Character_Image/Character_Icon_RSubSurcle_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1b9ef7e16144aa949b33d515b907df7b
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fc1dccf3edef7e746a6886dba7465d94
+    m_Address: Assets/Character_Image/Monster_Image_Boss_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1c408252d41d2d04cabe0e785647f012
+    m_Address: Assets/Character_Image/Character_Icon_NSubSurcle_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 710a44fc466bb0c48adad43991e025ed
+    m_Address: Assets/Character_Image/Monster_Image_Boss_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a0243f43ed2684747898c0a2cb3d96ff
+    m_Address: Assets/Character_Image/Character_Icon_SRSubSurcle_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 41e8e2a8fa1d88c449f7af9dd6618efd
+    m_Address: Assets/Character_Image/Character_Image_NSubPortrait_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 99600ea605ee8d646b12a5a619b486a5
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 90065c70ee0d2d4488aa19cc3fcd53e9
+    m_Address: Assets/Character_Image/Character_Icon_RSubSurcle_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 1febef12e24753649a07aa6711a6b55a
+    m_Address: Assets/Character_Image/Character_BustShot_SRSubBUST_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: cc5d18d766f344f439808e344e4b658d
+    m_Address: Assets/Character_Image/Character_Image_MainPortrait_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f83428d0623c34d4a98adcb6f3db8999
+    m_Address: Assets/Character_Image/Character_Icon_SRSubSurcle_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 045043a6c46e44e4b91424933049213f
+    m_Address: Assets/Character_Image/Character_BustShot_RSubBUST_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8021908a9e23a5840a22df23140647dc
+    m_Address: Assets/Character_Image/Character_Icon_SRSubSurcle_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d9e3679585219114294a396c2756c57b
+    m_Address: Assets/Character_Image/Monster_BustShot_Boss_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4e7f7689b1a742f45a222052324ad6ba
+    m_Address: Assets/Character_Image/Monster_Image_Monster_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e0a0ad1d84be5a94e83d69d0d6de6a8a
+    m_Address: Assets/Character_Image/Character_Image_MainPortrait_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6bcb4332e9acbb24ab7573c86a7e66b6
+    m_Address: Assets/Character_Image/Character_Image_SSRSubPortrait_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a5ad799476c050f429dee544e865b093
+    m_Address: Assets/Character_Image/Monster_BustShot_Monster_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: fd4e4f47bda25b947bcd5637c9327ad9
+    m_Address: Assets/Character_Image/Character_BustShot_SSRSubBUST_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 34329224c41739d4da977d571c0d56db
+    m_Address: Assets/Character_Image/Character_Icon_SSRSubSurcle_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d1c388d14542cb04fab7382ed5fdcd88
+    m_Address: Assets/Character_Image/Character_Icon_MainSurcle_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d761e181a7a28d94ca9a13446722cd7c
+    m_Address: Assets/Character_Image/Character_Image_RSubPortrait_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: cb68f7de321dc2343aac9f2b0d82be6b
+    m_Address: Assets/Character_Image/Character_BustShot_NSubBUST_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f770e68aa34fc7f4d8fd9396a0671006
+    m_Address: Assets/Character_Image/Character_Image_SRSubPortrait_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: dfae66f5a870aea438df737712d00a05
+    m_Address: Assets/Character_Image/Character_BustShot_MainBUST_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 056d8d2c1d5938943829c7c8c712588c
+    m_Address: Assets/Character_Image/Character_BustShot_SRSubBUST_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f2a466fd6d1bc8540af31ccf449ecccf
+    m_Address: Assets/Character_Image/Character_BustShot_SRSubBUST_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b108de900e27c714cbfa6bef24152063
+    m_Address: Assets/Character_Image/Character_Icon_RSubSurcle_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d27200b6cedb6d64cbca4e01a685cfea
+    m_Address: Assets/Character_Image/Character_BustShot_MainBUST_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e73955652ab415c418659cf0db0d176f
+    m_Address: Assets/Character_Image/Character_BustShot_NSubBUST_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 7bcdeebe46300ff48bc3e25bf96a7c3d
+    m_Address: Assets/Character_Image/Character_Image_SRSubPortrait_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4789314a477b3ea48a5f0e90c1a4a1f0
+    m_Address: Assets/Character_Image/Monster_Image_Boss_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: a32395025684d314d9aa5510b83d8abc
+    m_Address: Assets/Character_Image/Monster_Image_Monster_013.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: d2280bf06a7d3f44a8134d88bca2ff15
+    m_Address: Assets/Character_Image/Character_Image_NSubPortrait_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: b9aa8e3d7e71021418b9dc3ef56b5991
+    m_Address: Assets/Character_Image/Character_Image_RSubPortrait_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5f2204ad323785344bc883274d418cb1
+    m_Address: Assets/Character_Image/Character_BustShot_RSubBUST_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e7f6bc99d1bde06428c8cb164c76be4b
+    m_Address: Assets/Character_Image/Character_Image_NSubPortrait_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 0788f0c84d0133c41bb61d4315bb8fbb
+    m_Address: Assets/Character_Image/Character_Image_NSubPortrait_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 8f9f89f7463f1344cbb2d9e378128f5f
+    m_Address: Assets/Character_Image/Monster_BustShot_Boss_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 102342ea1bac7a74daf8e4440dc89121
+    m_Address: Assets/Character_Image/Character_Icon_RSubSurcle_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 4452c9d4d9cd7f547b3185864ca2b840
+    m_Address: Assets/Character_Image/Monster_Image_Monster_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: c90dd11118b937744955300a8bb0a722
+    m_Address: Assets/Character_Image/Character_Icon_NSubSurcle_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 88186a888cf245c448a7d437e43d28c6
+    m_Address: Assets/Character_Image/Monster_Image_Monster_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: f5e601955dd98ae4ab478dd70f3407ac
+    m_Address: Assets/Character_Image/Monster_Image_Monster_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 04b96873672db574f8cb0658eed2c05c
+    m_Address: Assets/Character_Image/Character_Icon_MainSurcle_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 834c4cbdcbe4e89409ca3f78680b5049
+    m_Address: Assets/DayDungeon/Dat_Image_Content_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - update1
+  - m_GUID: 39caee3360156324fa39813e6090ed87
+    m_Address: Assets/DayDungeon/Dat_Image_Content_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - update1
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 888ffc73a4b3f0d4ba3e7c4183c24466, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d12c491550a288b4e9e52696fc64d197, type: 2}
+    - {fileID: 11400000, guid: 95ffa8d979ade75429bf6fa41f2b94a4, type: 2}
